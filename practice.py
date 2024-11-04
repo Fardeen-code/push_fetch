@@ -7,3 +7,4 @@ def values(str):
     return val
 str=input()
 print(values(str))
+print('this is practice program')
